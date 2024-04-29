@@ -1,2 +1,2 @@
 front end cards
-![screenshot](web2.png)
+![screenshot](web2.PNG)
